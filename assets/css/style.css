@@ -82,23 +82,32 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Times New Roman' 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    font-style: italic;
+}
+.benefits p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
 }
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: 30px;
+
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: 30px;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: 30px;
 }
 
 .benefit-lead h3 {
@@ -141,6 +150,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
+}
+.search-engine-optimization p {
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif
 }
 
 .online-reputation-management {
@@ -150,6 +164,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
+}
+.online-reputation-management p {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .social-media-marketing {
@@ -159,6 +178,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
+}
+.social-media-marketing p {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .search-engine-optimization img {
@@ -187,6 +211,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 .footer {
     padding: 30px;
